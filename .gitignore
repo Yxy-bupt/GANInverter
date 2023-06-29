@@ -2,3 +2,4 @@
 experiments/
 latent_fid_results/
 __pycache__
+test_yxy
